@@ -1,2 +1,2 @@
 # Dynamic-Batch-Curation
-DBC code
+DBC code will release soon
