@@ -1,0 +1,17 @@
+Method: vanilla, dataset: cifar100, noise: noisy100, Average test accuracy: 40.87%, std: 0.38%
+Method: vanilla, dataset: cifar10, noise: rand1, Average test accuracy: 83.19%, std: 0.41%
+Method: vanilla, dataset: cifar10, noise: worst, Average test accuracy: 75.37%, std: 1.05%
+Method: vanilla, dataset: cifar10, noise: aggre, Average test accuracy: 85.36%, std: 0.18%
+Method: Ours, dataset: cifar100, noise: noisy100, Average test accuracy: 44.06%, std: 0.73%
+Method: Ours, dataset: cifar10, noise: aggre, Average test accuracy: 84.78%, std: 0.52%
+Method: Ours, dataset: cifar10, noise: rand1, Average test accuracy: 83.69%, std: 0.11%
+Method: Ours, dataset: cifar10, noise: worst, Average test accuracy: 76.43%, std: 0.39%
+Method: Ghost, dataset: cifar100, noise: noisy100, Average test accuracy: 41.24%, std: 0.95%
+Method: Ghost, dataset: cifar10, noise: aggre, Average test accuracy: 85.38%, std: 0.19%
+Method: Ghost, dataset: cifar10, noise: worst, Average test accuracy: 75.69%, std: 0.82%
+Method: Ghost, dataset: cifar10, noise: rand1, Average test accuracy: 83.16%, std: 0.60%
+Method: Ours_last_layer, dataset: cifar100, noise: noisy100, Average test accuracy: 44.22%, std: 0.56%
+Method: Ours_last_layer, dataset: cifar10, noise: worst, Average test accuracy: 75.87%, std: 1.50%
+Method: Ours_last_layer, dataset: cifar10, noise: rand1, Average test accuracy: 82.49%, std: 0.16%
+Method: Ours_last_layer, dataset: cifar10, noise: aggre, Average test accuracy: 84.13%, std: 0.59%
+Method: vanilla, dataset: cifar100, noise: noisy100, Average test accuracy: 2.71%, std: 0.00%
